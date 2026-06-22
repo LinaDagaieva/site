@@ -35,7 +35,7 @@ export default function Contact() {
 
       <div className="relative mx-auto max-w-6xl px-6 sm:px-8">
         <SectionHeading
-          index="05"
+          index="06"
           label="Contact"
           align="center"
           title="Let's talk quality."

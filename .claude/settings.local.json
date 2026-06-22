@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "Bash(npx --yes create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm --turbopack)",
-      "Bash(node scripts/screenshot.mjs)"
+      "Bash(node scripts/screenshot.mjs)",
+      "Bash(taskkill //PID 17872 //F)",
+      "Bash(tasklist)",
+      "Bash(npm run *)"
     ]
   }
 }

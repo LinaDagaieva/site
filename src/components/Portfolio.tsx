@@ -10,7 +10,7 @@ export default function Portfolio() {
       <div className="mx-auto max-w-6xl px-6 sm:px-8">
         <div className="flex flex-wrap items-end justify-between gap-6">
           <SectionHeading
-            index="04"
+            index="05"
             label="Portfolio"
             title="Case studies — currently in the lab"
             description="Detailed write-ups of test strategies, bug hunts, and QA process work are on the way. Until then, here's what's brewing."
